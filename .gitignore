@@ -1,0 +1,57 @@
+# ========== Unity ==========
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+MemoryCaptures/
+UserSettings/
+
+# ========== Rider / Visual Studio ==========
+
+.vs/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# ========== Unity MonoDevelop ==========
+
+*.pidb
+*.booproj
+*.svd
+*.pdb
+
+# ========== OS ==========
+
+.DS_Store
+Thumbs.db
+
+# ========== Auto-generated ==========
+
+*.csproj
+*.unityproj
+*.sln
+*.tmproj
+*.vcxproj
+*.pidb
+*.apk
+*.aab
+
+# ========== Crash Reports ==========
+*.stacktrace
+
+# ========== Build Artifacts ==========
+*.apk
+*.aab
+*.exe
+*.app
+*.ipa
+
+# ========== Other ==========
+
+*.log
+*.orig
