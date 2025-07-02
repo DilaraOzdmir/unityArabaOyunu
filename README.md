@@ -1,9 +1,11 @@
-2D Android Araba Oyunu
-Proje Hakkında
+...2D Android Araba Oyunu...
+
+Proje Hakkında : 
 Bu proje, Unity kullanılarak geliştirilmiş 2D bir Android araba oyunudur.
 Oyuncu ekranın ortasında sabit duran bir arabayı kontrol eder ve ekranda aşağı doğru rastgele diğer arabalar gelir. Oyunun temel amacı, bu gelen arabalardan kaçınmaktır.
 
-Oynanış
+....Oynanış....
+
 Oyuncu Kontrolü:
 Oyuncu, ekranın sağ veya sol tarafına dokunarak arabanın X ekseninde sağa veya sola hareket etmesini sağlar.
 
@@ -22,7 +24,7 @@ Oyuncu restart butonuna basarak oyunu baştan başlatabilir.
 Skor Sistemi:
 Oyun süreklidir ve oyuncunun hayatta kalma süresine göre skor artar. Skor, ekranda gerçek zamanlı gösterilir.
 
-Teknik Detaylar
+.....Teknik Detaylar....
 Car_Spawner:
 Rastgele konumlarda yeni arabalar oluşturur ve onları belirli aralıklarla sahneye ekler.
 
@@ -41,7 +43,7 @@ Zamanla artan skoru hesaplar ve UI’da gösterir.
 Game_Controller:
 Oyunun temel kontrol mekanizmasını sağlar, restart fonksiyonunu içerir.
 
-Kurulum ve Kullanım
+Kurulum ve Kullanım: 
 Projeyi Unity Editor ile açın.
 
 Android cihazınıza bağlanarak derleyin.
